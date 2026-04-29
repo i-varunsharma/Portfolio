@@ -91,7 +91,7 @@ const projects = [
     image: `${base}HouseSales.png`,
     tags: ["Tableau", "Data Analytics"],
     github: "https://github.com/Harenderchhoker31/House-Sales",
-    live: "https://public.tableau.com/app/profile/harender.chhoker5218/viz/WashingtonKingCountyHouseSales_17774040496290/KingCountyHouseSales?publish=yes"},
+    live: "https://public.tableau.com/app/profile/varun.sharma4873/viz/WashingtonKingCountyHouseSales_17774394249630/KingCountyHouseSales"},
   {
     name: "Airbnb Analytics Dashboard",
     description: "Interactive dashboard analyzing Airbnb listings, pricing strategies, and booking patterns.",
