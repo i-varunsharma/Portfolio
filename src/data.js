@@ -59,7 +59,7 @@ const projects = [
     image: `${base}accident.png`,
     tags: ["Tableau", "Data Analytics"],
     github: "https://github.com/Harenderchhoker31/Airport-Accident-Analysis-Dashboard",
-    live: "https://public.tableau.com/app/profile/harender.chhoker5218/viz/AviationAccidentAnalysis_17773991353200/AVIATIONACCIDENTANALYSIS?publish=yes"
+    live: "https://public.tableau.com/app/profile/varun.sharma4873/viz/AviationAccidentAnalysis_17774393274300/AVIATIONACCIDENTANALYSIS"
   },
   {
     name: "IPL Key Stats 2008-2025 Dashboard",
