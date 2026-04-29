@@ -67,7 +67,7 @@ const projects = [
     image: `${base}ipl.png`,
     tags: ["Tableau", "Data Analytics"],
     github: "https://github.com/Harenderchhoker31/IPL-Dashboard-2008-2025",
-    live: "https://public.tableau.com/app/profile/harender.chhoker5218/viz/IPLKeyStats2008-2025_17773983741910/IPL2025Dashboard?publish=yes"
+    live: "https://public.tableau.com/app/profile/varun.sharma4873/viz/IPLKeyStats2008-2025_17774397340680/IPL2025Dashboard"
   },
   {
     name: "Smart-Farming-Analytics-Understanding-Crop-Trends",
