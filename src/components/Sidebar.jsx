@@ -31,14 +31,6 @@ export default function Sidebar() {
         >
           GitHub
         </a>
-        <a
-          href={contactInfo.linkedin}
-          target="_blank"
-          rel="noreferrer"
-          className="sidebar-social-btn"
-        >
-          LinkedIn
-        </a>
       </div>
 
       <div className="sidebar-info">

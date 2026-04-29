@@ -5,13 +5,13 @@ export const contactInfo = {
   email: "v.shxrma2006@gmail.com",
   phone: "9729605399",
   linkedin: "https://www.linkedin.com/in/harender-chhoker-47a2a8325",
-  github: "https://github.com/Harenderchhoker31",
+  github: "https://github.com/i-varunsharma",
   resume: "https://drive.google.com/file/d/1jgaM2eGdRIrHKaEtliyhxaVAWF7Ilbk6/view?usp=drive_link"
 }
 
 export const profileInfo = {
   name: "Varun Sharma",
-  username: "varunsharma",
+  username: "i-varunsharma",
   avatar: avatarImg,
   bio: "Data analytics enthusiast with strong skills in Python, Excel, Tableau, Looker Studio, and Google Sheets, focused on extracting insights, building dashboards, and solving real-world problems using data.",
   location: "Newton School of Technology, Rishihood University"
