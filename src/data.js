@@ -75,7 +75,7 @@ const projects = [
     image: `${base}agri.png`,
     tags: ["Excel", "Data Analytics"],
     github: "https://github.com/Harenderchhoker31/Smart-Farming-Analytics-Understanding-Crop-Trends-through-Tableau",
-    live: "https://public.tableau.com/app/profile/harender.chhoker5218/viz/AnalysisonFarmingData_17773979718340/Dashboard1?publish=yes"
+    live: "https://public.tableau.com/app/profile/varun.sharma4873/viz/AnalysisonFarmingData_17774398160710/Dashboard1"
   }
   ,{
     name: "Hollywood Insights: A Cinematic Analysis",
