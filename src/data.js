@@ -98,7 +98,7 @@ const projects = [
     image: `${base}AIRBNB.PNG`,
     tags: ["Tableau", "Data Analytics"],
     github: "https://github.com/Harenderchhoker31/AIRBNB",
-    live: "https://public.tableau.com/app/profile/harender.chhoker5218/viz/Dashboard_17774039058980/Dashboard1?publish=yes"
+    live: "https://public.tableau.com/app/profile/varun.sharma4873/viz/Airbnb_17774395244120/Dashboard1"
   }
   
 ]
