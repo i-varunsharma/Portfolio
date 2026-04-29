@@ -6,7 +6,7 @@ export const contactInfo = {
   phone: "9729605399",
   linkedin: "https://www.linkedin.com/in/harender-chhoker-47a2a8325",
   github: "https://github.com/i-varunsharma",
-  resume: "https://drive.google.com/file/d/1jgaM2eGdRIrHKaEtliyhxaVAWF7Ilbk6/view?usp=drive_link"
+  resume: "https://drive.google.com/file/d/1mRZ1BvvvVbUvjWd5HVu-H8t3n4jZsVua/view?usp=drive_link"
 }
 
 export const profileInfo = {
