@@ -83,7 +83,7 @@ const projects = [
     image: `${base}Hollywood.png`,
     tags: ["Tableau", "Data Analytics"],
     github: "https://github.com/Harenderchhoker31/HLWD_Stories",
-    live: "https://public.tableau.com/app/profile/harender.chhoker5218/viz/HollywoodInsights_ACinematicAnalysis_17773987989360/Dashboard1?publish=yes"
+    live: "https://public.tableau.com/app/profile/varun.sharma4873/viz/HollywoodInsights/Dashboard1"
   },
   {
     name: "Washington King County House Sales",
